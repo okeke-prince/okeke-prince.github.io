@@ -37,7 +37,7 @@ const AboutMe = () => {
                         <div className={About.info}><img src={mail} alt="" /><b>Mail :<span> udochukwu2@gmail.com</span></b> </div>
                         <div className={About.info}><img src={phone} alt="" /><b>Phone :<span> +234 704 562 3093</span></b> </div>
 
-                        <button><a href="#">Download CV</a></button>
+                        <button><a href="https://www.google.com/">Download CV</a></button>
                         {/* <div>a</div> */}
                         {/* <div>a</div> */}
                         {/* <div>a</div> */}

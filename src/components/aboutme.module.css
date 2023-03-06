@@ -40,8 +40,9 @@
 }
 .left{
     /* border: 1px solid blue; */
-    width: 100%;
+    
     display: flex;
+    width: 80%;
     height: 100%;
     padding: 30px;
     /* flex-direction: column; */
@@ -80,6 +81,7 @@
 .innerhead{
     margin: 0px 0px 40px 0px;
     font-size: 2rem;
+    /* border: 1px solid red; */
 }
 .p{
     text-align: justify;
@@ -155,7 +157,7 @@
     }
     .left{
         justify-content: flex-start;
-        padding: 0px 0px 0px 50px;
+        /* padding: 0px 0px 0px 50px; */
     }
     .right{
         padding: 50px;
